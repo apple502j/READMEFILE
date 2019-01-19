@@ -24,11 +24,11 @@ ApplebotFile:GigaApplebotの連携ソースコードでをまとめたファイ�
 
 TakuTukirouFile:TakuTukirouの連携ソースコードをまとめたファイルです。
 
-MamiSatou:佐藤真美の連携ソースコードをまとめたファイルです。
+MamiSato:佐藤真美の連携ソースコードをまとめたファイルです。
 
 Shina:北上 思惟奈の連携ソースコードをまとめたファイルです。
 
-Allbotfile:すべてのボットに関連するソースコードです。
+File:すべてのボットに関連するソースコードです。
 
 ## ソースコードLICENSE
 
