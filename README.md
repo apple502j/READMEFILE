@@ -1,7 +1,7 @@
 # REEDMEFILE
 ## このチームについて
 
-このチームは佐藤真美、[TakuTukirou(月浪たく)]((https://github.com/T-taku/New-Takubot/))、[GigaApplebot(Applebot)](https://github.com/apple502j/GigaAppleBot)、北上 思惟奈を連携するためのソースコードを作るチームです。
+このチームは佐藤真美、[TakuTukirou(月浪たく)](https://github.com/T-taku/New-Takubot/)、[GigaApplebot(Applebot)](https://github.com/apple502j/GigaAppleBot)、北上 思惟奈を連携するためのソースコードを作るチームです。
 ## チームメンバー
 
 [apple502j](https://github.com/apple502j) [(GigaApplebot)](https://github.com/apple502j/GigaAppleBot)
